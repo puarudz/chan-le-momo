@@ -1,3 +1,5 @@
+# Installation
+* C0nfIg nằm trong ```config/config.php```
 # Code của CMSNT.CO - TEaM leADEr Nguyễn Thành
 ### Vui lòng không sử dụng vào việc KINH DOANH CỜ BẠC BẤT HỢP PHÁP
 ### Mình sẽ không chịu trách nhiệm nếu các bạn vi phạm các quy định sử dụng code sau đây:
