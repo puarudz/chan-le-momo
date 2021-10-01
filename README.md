@@ -1,5 +1,15 @@
 # Installation
 * C0nfIg nằm trong ```config/config.php```
+## Cách config
+```php
+if (!$this->ketnoi)
+        {
+            $this->ketnoi = mysqli_connect('localhost', 'root', '', 'chanlemomo') or die ('Vui lòng kết nối đến DATABASE');
+            mysqli_query($this->ketnoi, "set names 'utf8'");
+        }
+    }
+````
+* Các bạn config theo thứ tự ```'host', 'username', 'password', 'dbname'```
 # Code của CMSNT.CO - TEaM leADEr Nguyễn Thành
 ### Vui lòng không sử dụng vào việc KINH DOANH CỜ BẠC BẤT HỢP PHÁP
 ### Mình sẽ không chịu trách nhiệm nếu các bạn vi phạm các quy định sử dụng code sau đây:
