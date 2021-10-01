@@ -3,7 +3,7 @@
     require_once("../config/function.php");
     
     /* Không sử dụng mã nguồn để KINH DOANH CỜ BẠC BẤT HỢP PHÁP */
-    /* Email: refresh.official@protonmail.com*/
+    /* Email: refresh.official@protonmail.com - maildetaoweb@gmail.com */
     
     foreach($CMSNT->get_list(" SELECT DISTINCT `partnerId` FROM `momo` ") as $row)
     {
