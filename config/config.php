@@ -5,6 +5,7 @@ date_default_timezone_set('Asia/Ho_Chi_Minh'); // Timezone VIET NAM <3
 $base_url = 'http://localhost/CMSNT/CHANLEMOMO/'; // Thay url web bạn
 
 /* LƯU Ý CODE CHỈ CHẠY ĐƯỢC TRÊN PHP > 7.0, PHIÊN BẢN   */
+/* Không sử dụng mã nguồn vào việc KINH DOANH CỜ BẠC BẤT HỢP PHÁP */
 
 //error_reporting(0);
 class CMSNT
