@@ -1,6 +1,6 @@
 # Installation
 * C0nfIg nằm trong ```config/config.php```
-## Cách config
+## Config cơ sở dữ liệu
 ```php
 if (!$this->ketnoi)
         {
@@ -10,6 +10,10 @@ if (!$this->ketnoi)
     }
 ````
 * Các bạn config theo thứ tự ```'host', 'username', 'password', 'dbname'```
+## Config domain
+```php
+$base_url = 'http://localhost/CMSNT/CHANLEMOMO/'; // Thay url web bạn
+```
 # Code của CMSNT.CO - TEaM leADEr Nguyễn Thành
 ### Vui lòng không sử dụng vào việc KINH DOANH CỜ BẠC BẤT HỢP PHÁP
 ### Mình sẽ không chịu trách nhiệm nếu các bạn vi phạm các quy định sử dụng code sau đây:
