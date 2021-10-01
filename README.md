@@ -1,5 +1,5 @@
 # Code của CMSNT.CO - TEaM leADEr Nguyễn Thành
-### Vui lòng không sử dụng để kinh doanh cờ bạc bất hợp pháp
+### Vui lòng không sử dụng vào việc KINH DOANH CỜ BẠC BẤT HỢP PHÁP
 ### Mình sẽ không chịu trách nhiệm nếu các bạn vi phạm các quy định sử dụng code sau đây:
 * Sử dụng dịch vụ để thực hiện các hành vi vi phạm pháp luật của Nhà nước CHXHCN Việt Nam hiện hành và các quy định quốc tế đang được áp dụng tại Việt Nam.
 * Sử dụng dịch vụ để truyền bá các nội dung nhạy cảm, văn hóa phẩm đồi trụy, ảnh hưởng đến thuần phong mỹ tục Việt Nam.
